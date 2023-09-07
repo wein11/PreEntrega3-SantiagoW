@@ -17,12 +17,12 @@ const productos = [
     },
     {
         id: 4,
-        nombre: 'Chaqueta',
+        nombre: 'Campera',
         precio: 50
     },
     {
         id: 5,
-        nombre: 'Zapatos',
+        nombre: 'Zapatillas',
         precio: 60
     },
     {
@@ -37,12 +37,12 @@ const productos = [
     },
     {
         id: 8,
-        nombre: 'Gorro',
+        nombre: 'Gorra',
         precio: 12
     },
     {
         id: 9,
-        nombre: 'Calcetines',
+        nombre: 'Medias',
         precio: 5
     },
     {
