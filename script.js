@@ -2,7 +2,7 @@
 const productos = [
     {
         id: 1,
-        nombre: 'Camiseta',
+        nombre: 'Remera',
         precio: 20
     },
     {
